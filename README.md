@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://vercel.com/open-source-program">
-    <img alt="Vercel OSS Program" src="https://vercel.com/oss/program-badge-2026.svg" />
+    <img alt="Vercel OSS Program" src="assets/vercel-oss-program-badge.svg" height="24" />
   </a>
 </p>
 
